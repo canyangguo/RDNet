@@ -1,1 +1,1 @@
-# RDNet
+python main.py --source_dataset shenzhen --target_dataset chengdu --target_day 3 --mode source --num_of_latent 32 --gpu 0 --remark1 source --remark2 full --lambda1=1 --lambda2=1 --model CGSTT
